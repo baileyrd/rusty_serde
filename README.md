@@ -1,5 +1,13 @@
 # rusty_serde
 
+> **This repo has moved.** `rusty_serde` now lives at
+> [`crates/rusty_serde`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_serde)
+> in the [`rusty_mill`](https://github.com/Rusty-Mill/rusty_mill) monorepo,
+> merged in with its full commit history via `git subtree`. This repo is
+> kept for historical reference (issues, PRs, prior releases) but is no
+> longer where development happens -- open new issues and PRs against
+> `rusty_mill` instead.
+
 A hand-rolled, dependency-free reimplementation of the ideas behind
 [serde](https://serde.rs): a `Serialize`/`Deserialize` data model that's
 independent of any wire format, a compact JSON format and a second,
